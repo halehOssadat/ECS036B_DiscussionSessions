@@ -1,0 +1,4 @@
+*.o
+*.txt
+/triangleCalculator
+/.vscode
